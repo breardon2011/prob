@@ -1,0 +1,11 @@
+# Ignore all YAML files
+*.yaml
+
+# Exclude example.yaml from being ignored
+!example.yaml
+
+# Ignore env from setup notes
+env/
+venv/ 
+.env/
+.venv/
